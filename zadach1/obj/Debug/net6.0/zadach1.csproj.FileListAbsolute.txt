@@ -1,0 +1,15 @@
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\bin\Debug\net6.0\zadach1.exe
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\bin\Debug\net6.0\zadach1.deps.json
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\bin\Debug\net6.0\zadach1.runtimeconfig.json
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\bin\Debug\net6.0\zadach1.dll
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\bin\Debug\net6.0\zadach1.pdb
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.csproj.AssemblyReference.cache
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.AssemblyInfoInputs.cache
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.AssemblyInfo.cs
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.csproj.CoreCompileInputs.cache
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.dll
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\refint\zadach1.dll
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.pdb
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\zadach1.genruntimeconfig.cache
+C:\Users\79046\Desktop\Gigbrains\dz9_seminar_c#\zadach1\obj\Debug\net6.0\ref\zadach1.dll
